@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Hãy mở ra nhie ..." //Lời mở đầu cho bức thư
-const mainContentLetter = "Nhân dịp ngày lành tháng tốt. Trân trọng kính mời 105 Kim Ngưu đến dự buổi trao bằng tốt nghiệp của tôi tại hội trường G3 trường Đại học Xây Dựng Hà Nội vào lúc 8h ngày 01/03/2025(Tức ngày 02 tháng 02 năm Ất Tỵ). Sự hiện diện của mọi người là niềm vinh hạnh của tôi " 
+const mainContentLetter = "Nhân dịp ngày lành tháng tốt. Trân trọng kính mời em và người thương đến dự buổi trao bằng tốt nghiệp của anh tại hội trường G3 trường Đại học Xây Dựng Hà Nội vào lúc 8h ngày 01/03/2025(Tức ngày 02 tháng 02 năm Ất Tỵ). Sự hiện diện của em là niềm vinh hạnh của anh. " 
 //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
